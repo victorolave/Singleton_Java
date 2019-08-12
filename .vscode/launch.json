@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - LoggerTest",
+            "request": "launch",
+            "mainClass": "LoggerTest",
+            "projectName": "SingletonJava_f1ffb843"
+        }
+    ]
+}
